@@ -1,0 +1,14 @@
+From: Amazon Security <support@amazn-login.com>
+Subject: Urgent! Account Locked Due to Suspicious Activity
+
+Dear User,
+
+We detected unusual activity on your account. To protect it, we've temporarily locked your access.  
+Please verify your identity by clicking this link:
+
+👉 http://amazn-security-check.com/login
+
+If you don't act in 24 hours, your account will be permanently disabled.
+
+Sincerely,  
+Amazon Security Team

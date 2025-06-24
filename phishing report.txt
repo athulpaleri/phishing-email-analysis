@@ -1,0 +1,31 @@
+# Phishing Email Analysis – Task 
+
+## Email Details:
+- **From:** support@amazn-login.com  
+- **Subject:** Urgent! Account Locked Due to Suspicious Activity
+
+
+## Observations and Indicators of Phishing:
+
+1. Sender Email Looks Suspicious 
+   The domain used is `amazn-login.com` which closely mimics the real Amazon domain (`amazon.com`). This is a classic example of email spoofing where attackers slightly alter the name to trick the recipient.
+
+2. Link Redirects to Fake Site
+   When hovering over the link provided in the email, it points to `http://amazn-security-check.com/login`. This isn’t a legitimate Amazon URL, and clicking it could lead to a phishing site that steals login credentials.
+
+3. Urgent and Fear-Inducing Language  
+   The message says the account will be “permanently locked in 24 hours,” which creates pressure to act quickly. This is a common psychological trick used in phishing to make victims panic.
+
+4. Generic Greeting 
+   The email begins with “Dear User” instead of addressing the recipient by name. Professional services like Amazon usually include the user’s name for personalization.
+
+5. Tone and Grammar Issues  
+   Some sentences sound unnatural or too robotic. While not extreme, the writing lacks the polish typically found in official communication from big companies.
+
+
+
+## Final Conclusion:
+
+This email has several signs of being a phishing attempt: a misleading sender address, fake link, urgency in tone, and poor personalization. It’s clearly trying to trick users into clicking the link and entering their login details.  
+
+To stay safe, always double-check the sender’s domain, never click links in suspicious emails, and report such messages to the appropriate security team or platform.
